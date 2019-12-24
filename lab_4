@@ -66,7 +66,7 @@ int main(int argc, char* argv[])
 	path p;
 	if (argc < 2)
 	{
-		p = { "C:\\Users\\PussyRevisor\\source\\repos\\filesystem\\ftp\\" };
+		p = { "C:\\Users\\tinlock\\source\\repos\\filesystem\\ftp\\" };
 	}
 	else
 	{
